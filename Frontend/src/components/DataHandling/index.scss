@@ -1,0 +1,33 @@
+
+.table-container {
+    margin: 120px  20px;
+    font-family: Arial, sans-serif;
+  
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      border: 1px solid #3a3a5a;
+      background-color: #2a2a4a;
+  
+      th, td {
+        padding: 10px;
+        border-bottom: 1px solid #3a3a5a;
+        text-align: left;
+        color: #fff;
+      }
+  
+      th {
+        background-color: #0f0f23;
+        color: #d4af37;
+      }
+  
+      tr:nth-child(even) {
+        background-color: #252545;
+      }
+  
+      tr:hover {
+        background-color: #3a3a5a;
+      }
+    }
+  }
+  

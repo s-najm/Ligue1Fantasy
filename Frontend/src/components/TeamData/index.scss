@@ -1,0 +1,65 @@
+
+.fade-in {
+  opacity: 0;
+  animation: fadeIn 1s ease-in-out forwards;
+  animation-delay: 0.3s;
+}
+
+@keyframes fadeIn {
+  to {
+    opacity: 1;
+  }
+}
+
+.table-container {
+  .page-title{
+    font-size: 60px;
+    color: #fff;
+  }
+  margin: 120px 20px;
+  font-family: Arial, sans-serif;
+  opacity: 0;
+  margin-bottom: 10px;
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #3a3a5a;
+    background-color: #2a2a4a;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+
+    th, td {
+      padding: 12px;
+      border-bottom: 1px solid #3a3a5a;
+      text-align: left;
+      color: #fff;
+      font-weight: 400;
+      font-size: 14px;
+    }
+
+    th {
+      background-color: #0f0f23;
+      color: #d4af37;
+    }
+
+    tr:nth-child(even) {
+      background-color: #252545;
+    }
+
+    tr:hover {
+      background-color: #3a3a5a;
+    }
+  }
+}
+
+.show-more-button {
+  opacity: 0;
+  transition: opacity 1s ease-in-out;
+  margin-top: 10px;
+}
+
+.table-container:not(.loading),
+.show-more-button:not(.loading) {
+  opacity: 1;
+}

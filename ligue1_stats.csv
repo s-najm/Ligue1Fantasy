@@ -1,0 +1,133 @@
+Player,Nation,Pos,Age,MP,Starts,Min,Gls,Ast,PK,CrdY,CrdR,xG,xAG,Team
+Ousmane Dembélé,fr FRA,FW,27,29,28,1928.0,21.0,6.0,1.0,2.0,0.0,15.8,5.2,Paris-Saint-Germain
+Bradley Barcola,fr FRA,FW,22,34,31,2685.0,15.0,8.0,0.0,2.0,0.0,14.2,7.3,Paris-Saint-Germain
+Achraf Hakimi,ma MAR,DF,26,29,28,2295.0,5.0,7.0,0.0,3.0,0.0,3.8,6.1,Paris-Saint-Germain
+Vitinha,pt POR,MF,24,29,20,2042.0,5.0,1.0,2.0,1.0,0.0,3.4,2.6,Paris-Saint-Germain
+João Neves,pt POR,MF,19,29,22,1844.0,3.0,8.0,0.0,1.0,0.0,3.0,4.0,Paris-Saint-Germain
+Gonçalo Ramos,pt POR,FW,23,22,12,1066.0,10.0,3.0,2.0,1.0,0.0,13.6,2.2,Paris-Saint-Germain
+Warren Zaïre-Emery,fr FRA,MF,18,29,23,2050.0,1.0,2.0,0.0,3.0,0.0,1.7,1.4,Paris-Saint-Germain
+Fabián Ruiz Peña,es ESP,MF,28,30,21,1923.0,4.0,5.0,0.0,1.0,0.0,4.3,4.7,Paris-Saint-Germain
+Marquinhos,br BRA,DF,30,24,22,2003.0,0.0,0.0,0.0,3.0,0.0,0.6,0.3,Paris-Saint-Germain
+Willian Pacho,ec ECU,DF,22,28,23,2132.0,0.0,1.0,0.0,2.0,0.0,0.3,0.3,Paris-Saint-Germain
+Nuno Mendes,pt POR,DF,22,25,20,1711.0,1.0,3.0,0.0,3.0,0.0,0.8,3.5,Paris-Saint-Germain
+Gianluigi Donnarumma,it ITA,GK,25,24,24,2091.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Paris-Saint-Germain
+Désiré Doué,fr FRA,MF,19,30,16,1151.0,4.0,5.0,0.0,1.0,0.0,4.8,4.3,Paris-Saint-Germain
+Lee Kang-in,kr KOR,MF,23,31,12,1362.0,2.0,3.0,0.0,2.0,0.0,2.9,3.1,Paris-Saint-Germain
+Mason Greenwood,eng ENG,FW,23,32,32,2743.0,21.0,5.0,3.0,6.0,0.0,16.1,5.9,Marseille
+Adrien Rabiot,fr FRA,MF,29,29,27,2485.0,9.0,4.0,0.0,4.0,0.0,7.3,3.8,Marseille
+Luis Henrique,br BRA,FW,22,32,26,2243.0,9.0,7.0,0.0,4.0,0.0,6.4,4.8,Marseille
+Pierre Højbjerg,dk DEN,MF,29,34,33,2897.0,5.0,9.0,0.0,7.0,0.0,4.2,6.5,Marseille
+Geoffrey Kondogbia,cf CAF,MF,31,27,23,2073.0,3.0,1.0,0.0,5.0,0.0,2.1,0.9,Marseille
+Gerónimo Rulli,ar ARG,GK,32,34,34,3060.0,0.0,0.0,0.0,1.0,0.0,0.0,0.1,Marseille
+Leonardo Balerdi,ar ARG,DF,25,31,29,2641.0,2.0,0.0,0.0,9.0,1.0,1.7,0.2,Marseille
+Jonathan Rowe,eng ENG,FW,21,28,6,807.0,3.0,3.0,0.0,2.0,0.0,3.5,4.5,Marseille
+Valentin Rongier,fr FRA,MF,29,25,17,1562.0,3.0,1.0,0.0,5.0,0.0,1.0,1.1,Marseille
+Amir Murillo,pa PAN,DF,28,27,27,2368.0,0.0,3.0,0.0,6.0,0.0,0.4,1.5,Marseille
+Mika Biereth,dk DEN,FW,21,31,22,1831.0,13.0,2.0,0.0,2.0,0.0,12.8,2.4,Monaco
+Maghnes Akliouche,fr FRA,MF,22,30,19,1756.0,8.0,9.0,0.0,2.0,0.0,7.6,7.2,Monaco
+Denis Zakaria,ch SUI,MF,27,26,24,2144.0,6.0,4.0,2.0,5.0,0.0,5.2,1.4,Monaco
+Eliesse Ben Seghir,ma MAR,FW,19,28,22,1875.0,7.0,6.0,1.0,2.0,0.0,5.8,4.9,Monaco
+Philipp Köhn,at AUT,GK,26,25,25,2237.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,Monaco
+Thilo Kehrer,de GER,DF,28,28,26,2305.0,2.0,0.0,0.0,3.0,0.0,1.8,0.3,Monaco
+Vanderson,br BRA,DF,23,29,23,2064.0,1.0,3.0,0.0,6.0,1.0,2.2,3.1,Monaco
+Caio Henrique,br BRA,DF,27,27,21,1929.0,0.0,6.0,0.0,3.0,0.0,0.2,5.0,Monaco
+Mohammed Salisu,gh GHA,DF,25,15,11,1023.0,1.0,0.0,0.0,2.0,0.0,0.8,0.1,Monaco
+Lamine Camara,sn SEN,MF,20,29,24,2093.0,3.0,3.0,0.0,3.0,0.0,2.9,3.4,Monaco
+Evann Guessand,ci CIV,FW,23,34,27,2377.0,12.0,3.0,1.0,5.0,0.0,8.9,2.5,Nice
+Tanguy Ndombele,fr FRA,MF,27,18,12,1131.0,1.0,2.0,0.0,2.0,0.0,2.4,2.4,Nice
+Pablo Rosario,do DOM,MF,27,29,21,1775.0,3.0,1.0,1.0,6.0,1.0,3.8,0.6,Nice
+Marcin Bułka,pl POL,GK,25,34,34,3060.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,Nice
+Youssouf Ndayishimiye,bi BDI,DF,25,23,22,1932.0,3.0,0.0,0.0,5.0,0.0,0.9,0.2,Nice
+Sofiane Diop,ma MAR,MF,24,29,13,1339.0,2.0,4.0,0.0,1.0,0.0,3.2,3.8,Nice
+Badredine Bouanani,dz ALG,FW,21,25,14,1283.0,3.0,2.0,0.0,2.0,0.0,4.0,2.1,Nice
+Melvin Bard,fr FRA,DF,23,27,24,2156.0,0.0,3.0,0.0,3.0,0.0,0.5,2.4,Nice
+Jonathan David,ca CAN,FW,25,32,31,2615.0,16.0,2.0,4.0,3.0,0.0,14.2,3.2,Lille
+Lucas Chevalier,fr FRA,GK,22,34,34,3060.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,Lille
+Benjamin André,fr FRA,MF,34,33,32,2830.0,2.0,3.0,0.0,6.0,0.0,1.2,1.4,Lille
+Gabriel Gudmundsson,se SWE,DF,24,30,26,2225.0,2.0,4.0,0.0,6.0,0.0,1.2,3.2,Lille
+Alexsandro Ribeiro,br BRA,DF,24,30,30,2700.0,1.0,1.0,0.0,10.0,0.0,1.6,0.4,Lille
+Tiago Santos,pt POR,DF,22,7,4,404.0,0.0,0.0,0.0,1.0,0.0,0.4,0.6,Lille
+Edon Zhegrova,xk KVX,FW,25,12,12,978.0,4.0,1.0,0.0,1.0,0.0,2.3,2.2,Lille
+Osame Sahraoui,ma MAR,FW,23,30,10,1293.0,3.0,3.0,0.0,1.0,0.0,2.9,3.6,Lille
+Alexandre Lacazette,fr FRA,FW,33,33,29,2516.0,15.0,5.0,3.0,3.0,0.0,13.8,4.2,Lyon
+Rayan Cherki,fr FRA,MF,21,31,22,2263.0,8.0,11.0,0.0,2.0,0.0,8.4,11.1,Lyon
+Corentin Tolisso,fr FRA,MF,29,32,27,2329.0,7.0,4.0,0.0,4.0,0.0,5.3,4.9,Lyon
+Malick Fofana,be BEL,FW,19,33,20,1799.0,9.0,5.0,0.0,1.0,0.0,6.5,4.2,Lyon
+Lucas Perri,br BRA,GK,26,33,33,2970.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Lyon
+Moussa Niakhate,sn SEN,DF,28,31,30,2726.0,0.0,0.0,0.0,2.0,0.0,0.1,1.0,Lyon
+Nicolás Tagliafico,ar ARG,DF,31,24,22,1902.0,3.0,1.0,0.0,7.0,0.0,3.0,0.8,Lyon
+Clinton Mata,ao ANG,DF,31,24,21,1914.0,0.0,1.0,0.0,4.0,0.0,0.5,1.4,Lyon
+Maxence Caqueret,fr FRA,MF,24,27,24,2037.0,1.0,2.0,0.0,3.0,0.0,0.8,1.8,Lyon
+Emanuel Emegha,nl NED,FW,21,30,24,2035.0,14.0,3.0,0.0,4.0,0.0,17.0,2.4,Strasbourg
+Andrey Santos,br BRA,MF,20,32,32,2855.0,10.0,3.0,0.0,8.0,0.0,5.1,3.3,Strasbourg
+Sebastian Nanasi,se SWE,MF,22,31,26,2107.0,6.0,4.0,0.0,1.0,0.0,6.5,4.9,Strasbourg
+Đorđe Petrović,rs SRB,GK,24,31,31,2790.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,Strasbourg
+Mamadou Sarr,sn SEN,DF,18,27,27,2365.0,0.0,1.0,0.0,4.0,0.0,0.8,0.3,Strasbourg
+Dilane Bakwa,fr FRA,FW,21,28,18,1558.0,3.0,5.0,0.0,3.0,0.0,2.6,4.2,Strasbourg
+Diego Moreira,pt POR,FW,20,21,9,924.0,2.0,2.0,0.0,0.0,0.0,2.1,2.4,Strasbourg
+Habib Diarra,sn SEN,MF,20,27,22,1841.0,5.0,4.0,1.0,6.0,0.0,4.8,3.7,Strasbourg
+Neil El Aynaoui,ma MAR,MF,22,31,26,2127.0,8.0,4.0,0.0,2.0,0.0,4.4,3.1,Lens
+Florian Sotoca,fr FRA,FW,33,31,22,1794.0,1.0,1.0,0.0,2.0,1.0,4.6,1.5,Lens
+Adrien Thomasson,fr FRA,MF,30,33,31,2615.0,3.0,7.0,0.0,7.0,0.0,5.9,6.0,Lens
+Brice Samba,fr FRA,GK,30,15,15,1350.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Lens
+M'Bala Nzola,ao ANG,FW,27,21,16,1460.0,6.0,1.0,0.0,3.0,1.0,8.6,1.3,Lens
+Kevin Danso,at AUT,DF,26,29,29,2610.0,3.0,1.0,0.0,6.0,0.0,2.7,0.4,Lens
+Ludovic Ajorque,fr FRA,FW,30,32,28,2256.0,13.0,4.0,5.0,5.0,0.0,9.2,2.8,Brest
+Marco Bizot,nl NED,GK,33,27,27,2430.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,Brest
+Mathias Pereira Lage,pt POR,FW,27,29,18,1571.0,2.0,7.0,0.0,4.0,0.0,3.3,3.5,Brest
+Abdallah Sima,sn SEN,FW,23,27,14,1238.0,7.0,2.0,0.0,2.0,0.0,5.9,1.0,Brest
+Mama Samba Baldé,gw GNB,FW,28,27,12,1149.0,2.0,3.0,0.0,4.0,0.0,3.0,2.1,Brest
+Brendan Chardonnet,fr FRA,DF,27,32,32,2871.0,1.0,1.0,0.0,5.0,0.0,1.1,0.7,Brest
+Kenny Lala,fr FRA,DF,32,28,27,2389.0,2.0,4.0,0.0,4.0,0.0,1.0,3.1,Brest
+Zakaria Aboukhlal,ma MAR,FW,24,28,18,1651.0,7.0,2.0,0.0,0.0,0.0,5.4,2.1,Toulouse
+Guillaume Restes,fr FRA,GK,19,29,29,2543.0,0.0,1.0,0.0,2.0,0.0,0.0,0.1,Toulouse
+Vincent Sierro,ch SUI,MF,28,29,27,2402.0,5.0,1.0,2.0,4.0,0.0,4.2,3.6,Toulouse
+Gabriel Suazo,cl CHI,DF,26,30,23,2163.0,0.0,6.0,0.0,0.0,0.0,0.8,3.8,Toulouse
+Djibril Sidibé,fr FRA,DF,32,28,24,2101.0,0.0,3.0,0.0,1.0,0.0,0.4,2.9,Toulouse
+Shavy Babicka,fr FRA,FW,23,26,15,1236.0,4.0,3.0,0.0,3.0,0.0,3.3,2.2,Toulouse
+Gaëtan Perrin,fr FRA,MF,28,34,31,2691.0,10.0,11.0,0.0,2.0,0.0,6.1,7.8,Auxerre
+Hamed Junior Traorè,ci CIV,MF,24,31,27,2382.0,10.0,4.0,0.0,4.0,0.0,8.1,3.8,Auxerre
+Lassine Sinayoko,ml MLI,FW,24,34,25,2299.0,5.0,8.0,1.0,5.0,0.0,6.5,5.5,Auxerre
+Donovan Léon,fr FRA,GK,32,29,29,2595.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,Auxerre
+Elisha Owusu,gh GHA,MF,26,28,28,2344.0,1.0,3.0,0.0,7.0,0.0,0.4,1.0,Auxerre
+Jubal,br BRA,DF,27,30,29,2562.0,3.0,0.0,0.0,7.0,0.0,1.9,0.1,Auxerre
+Arnaud Kalimuendo,fr FRA,FW,22,30,22,1866.0,17.0,1.0,3.0,3.0,0.0,10.3,2.3,Rennes
+Brice Samba,fr FRA,GK,30,17,17,1529.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,Rennes
+Adrien Truffert,fr FRA,DF,22,33,31,2752.0,2.0,2.0,0.0,3.0,0.0,2.4,3.2,Rennes
+Ludovic Blas,fr FRA,MF,26,27,21,1805.0,4.0,4.0,0.0,3.0,0.0,3.9,4.1,Rennes
+Albert Grønbæk,dk DEN,MF,23,24,22,1906.0,3.0,5.0,0.0,2.0,0.0,3.7,4.2,Rennes
+Leo Skiri Østigård,no NOR,DF,24,16,14,1227.0,1.0,0.0,0.0,4.0,0.0,0.7,0.2,Rennes
+Moses Simon,ng NGA,FW,29,32,31,2609.0,8.0,10.0,4.0,2.0,0.0,5.8,6.7,Nantes
+Anthony Lopes,pt POR,GK,34,24,24,2160.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Nantes
+Matthis Abline,fr FRA,FW,21,33,27,2264.0,9.0,1.0,0.0,2.0,0.0,6.9,1.7,Nantes
+Sorba Thomas,wls WAL,FW,24,25,15,1321.0,1.0,3.0,0.0,3.0,0.0,1.5,3.7,Nantes
+Nicolas Pallois,fr FRA,DF,36,26,23,2017.0,0.0,2.0,0.0,9.0,0.0,0.4,0.4,Nantes
+Nathan Zeze,fr FRA,DF,19,18,17,1512.0,0.0,0.0,0.0,6.0,0.0,0.3,0.0,Nantes
+Esteban Lepaul,fr FRA,FW,24,26,16,1341.0,9.0,1.0,0.0,1.0,0.0,6.3,1.2,Angers
+Yahia Fofana,ci CIV,GK,24,33,33,2970.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Angers
+Himad Abdelli,fr FRA,MF,25,26,24,2128.0,1.0,4.0,0.0,2.0,0.0,1.2,5.1,Angers
+Zinédine Ferhat,dz ALG,MF,32,23,17,1465.0,4.0,3.0,0.0,2.0,0.0,2.3,2.4,Angers
+Jordan Lefort,fr FRA,DF,31,32,31,2780.0,1.0,0.0,0.0,4.0,0.0,1.5,0.3,Angers
+Abdoulaye Touré,gn GUI,MF,30,28,26,2324.0,10.0,1.0,8.0,5.0,0.0,9.4,0.4,Le-Havre
+Arthur Desmas,fr FRA,GK,25,29,29,2610.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Le-Havre
+Issa Soumaré,sn SEN,FW,23,29,21,1902.0,5.0,4.0,0.0,0.0,0.0,3.8,3.1,Le-Havre
+Arouna Sangante,sn SEN,DF,22,16,16,1244.0,3.0,0.0,0.0,4.0,1.0,1.0,0.1,Le-Havre
+Etienne Youte Kinkoue,fr FRA,DF,22,28,26,2320.0,0.0,0.0,0.0,4.0,1.0,1.3,0.2,Le-Havre
+Loïc Nego,hu HUN,DF,33,31,28,2459.0,0.0,0.0,0.0,4.0,0.0,0.8,0.7,Le-Havre
+Keito Nakamura,jp JPN,FW,24,32,31,2649.0,11.0,2.0,0.0,5.0,0.0,9.1,2.9,Reims
+Yehvann Diouf,fr FRA,GK,25,34,34,3060.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Reims
+Junya Ito,jp JPN,FW,31,27,25,2190.0,2.0,6.0,0.0,3.0,0.0,4.1,6.8,Reims
+Marshall Munetsi,zw ZIM,MF,28,19,19,1692.0,4.0,2.0,0.0,5.0,0.0,4.0,2.0,Reims
+Joseph Okumu,ke KEN,DF,27,22,20,1695.0,1.0,0.0,0.0,5.0,1.0,1.0,0.1,Reims
+Lucas Stassin,be BEL,FW,19,28,23,1887.0,12.0,4.0,0.0,4.0,0.0,7.0,3.4,Saint-Etienne
+Gautier Larsonneur,fr FRA,GK,27,34,34,3060.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Saint-Etienne
+Léo Pétrot,fr FRA,DF,27,31,29,2634.0,0.0,3.0,0.0,4.0,0.0,0.6,1.6,Saint-Etienne
+Florian Tardieu,fr FRA,MF,32,24,13,1252.0,2.0,4.0,0.0,0.0,0.0,0.6,1.3,Saint-Etienne
+Mickael Nade,fr FRA,DF,25,26,25,2306.0,1.0,2.0,0.0,1.0,0.0,0.7,0.6,Saint-Etienne
+Ibrahim Sissoko,ml MLI,FW,28,20,8,819.0,3.0,1.0,1.0,1.0,0.0,4.3,0.6,Saint-Etienne
+Téji Savanier,fr FRA,MF,32,31,27,2363.0,2.0,5.0,2.0,4.0,1.0,3.8,6.9,Montpellier
+Benjamin Lecomte,fr FRA,GK,33,32,32,2865.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,Montpellier
+Arnaud Nordin,fr FRA,FW,26,16,14,1166.0,4.0,1.0,1.0,2.0,0.0,4.1,0.9,Montpellier
+Modibo Sagnan,ml MLI,DF,25,27,24,2141.0,2.0,0.0,0.0,10.0,0.0,0.7,0.6,Montpellier
+Becir Omeragic,ch SUI,DF,22,22,21,1799.0,0.0,0.0,0.0,1.0,0.0,0.3,0.1,Montpellier
+Rabby Nzingoula,fr FRA,MF,18,27,20,1689.0,1.0,0.0,0.0,11.0,0.0,1.0,1.6,Montpellier

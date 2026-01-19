@@ -1,0 +1,256 @@
+.team-stats-page {
+  padding: 40px 20px;
+  min-height: 100vh;
+  max-width: 1400px;
+  margin: 0 auto;
+
+  .page-title {
+    color: #d4af37;
+    font-size: 3rem;
+    margin-bottom: 40px;
+    text-align: center;
+    font-weight: 700;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }
+
+  .error-message {
+    color: #ff6b6b;
+    text-align: center;
+    font-size: 1.2rem;
+  }
+
+  .team-summary {
+    margin-bottom: 40px;
+
+    h2 {
+      color: #d4af37;
+      font-size: 2rem;
+      margin-bottom: 20px;
+      text-align: center;
+      font-weight: 600;
+    }
+
+    .summary-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 15px;
+      max-width: 800px;
+      margin: 0 auto;
+
+      .stat-card {
+        background: linear-gradient(135deg, rgba(26, 26, 46, 0.9), rgba(15, 15, 35, 0.9));
+        border: 2px solid rgba(212, 175, 55, 0.5);
+        border-radius: 12px;
+        padding: 20px 15px;
+        text-align: center;
+        transition: all 0.3s ease;
+        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+
+        &:hover {
+          transform: translateY(-5px);
+          border-color: #d4af37;
+          box-shadow: 0 8px 25px rgba(212, 175, 55, 0.4);
+        }
+
+        &.highlight {
+          background: linear-gradient(135deg, rgba(212, 175, 55, 0.2), rgba(212, 175, 55, 0.1));
+          border-color: #d4af37;
+          border-width: 3px;
+        }
+
+        .stat-value {
+          font-size: 2.5rem;
+          font-weight: 900;
+          color: #d4af37;
+          margin-bottom: 8px;
+          text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+        }
+
+        .stat-label {
+          font-size: 0.85rem;
+          color: #e0e0e0;
+          text-transform: uppercase;
+          letter-spacing: 1px;
+          font-weight: 600;
+        }
+      }
+    }
+  }
+
+  .h2h-section {
+    h2 {
+      color: #d4af37;
+      font-size: 2.2rem;
+      margin-bottom: 30px;
+      text-align: center;
+      font-weight: 600;
+    }
+
+    .table-container {
+      overflow-x: auto;
+      background: linear-gradient(135deg, rgba(26, 26, 46, 0.8), rgba(15, 15, 35, 0.8));
+      border-radius: 15px;
+      padding: 25px;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+      border: 1px solid rgba(212, 175, 55, 0.3);
+      margin: 0 auto;
+      max-width: 1000px;
+
+      table {
+        width: 100%;
+        border-collapse: separate;
+        border-spacing: 0;
+        color: #fff;
+        margin: 0 auto;
+
+        thead {
+          tr {
+            background: linear-gradient(135deg, #d4af37, #c9a332);
+            border-bottom: 3px solid #b8941f;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+            
+            th {
+              padding: 20px 10px;
+              text-align: center;
+              font-weight: 900;
+              color: #0a0a1a;
+              text-transform: uppercase;
+              font-size: 1.1rem;
+              letter-spacing: 2px;
+              border-right: 2px solid rgba(10, 10, 26, 0.3);
+              background: linear-gradient(135deg, #d4af37, #c9a332);
+              position: relative;
+              min-width: 80px;
+
+              &:first-child {
+                border-top-left-radius: 10px;
+                text-align: center;
+                padding-left: 10px;
+                min-width: 150px;
+              }
+
+              &:last-child {
+                border-top-right-radius: 10px;
+                border-right: none;
+              }
+
+              &::after {
+                content: '';
+                position: absolute;
+                bottom: 0;
+                left: 0;
+                right: 0;
+                height: 2px;
+                background: rgba(10, 10, 26, 0.4);
+              }
+            }
+          }
+        }
+
+        tbody {
+          tr {
+            border-bottom: 1px solid rgba(212, 175, 55, 0.15);
+            transition: all 0.2s ease;
+            background: rgba(255, 255, 255, 0.02);
+
+            &:hover {
+              background: rgba(212, 175, 55, 0.15);
+              transform: scale(1.01);
+            }
+
+            &:last-child {
+              td:first-child {
+                border-bottom-left-radius: 10px;
+              }
+              td:last-child {
+                border-bottom-right-radius: 10px;
+              }
+            }
+
+            td {
+              padding: 18px 10px;
+              color: #e0e0e0;
+              text-align: center;
+              font-size: 1rem;
+              font-weight: 500;
+              min-width: 80px;
+
+              &.opponent-name {
+                font-weight: 700;
+                color: #fff;
+                text-align: center;
+                padding-left: 10px;
+                font-size: 1.05rem;
+                min-width: 150px;
+              }
+
+              &.points {
+                font-weight: 800;
+                color: #d4af37;
+                font-size: 1.1rem;
+              }
+
+              &.positive {
+                color: #4caf50;
+                font-weight: 700;
+              }
+
+              &.negative {
+                color: #f44336;
+                font-weight: 700;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .team-stats-page {
+    .page-title {
+      font-size: 1.8rem;
+    }
+
+    .team-summary {
+      .summary-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 12px;
+        max-width: 500px;
+
+        .stat-card {
+          padding: 15px 10px;
+
+          .stat-value {
+            font-size: 2rem;
+          }
+
+          .stat-label {
+            font-size: 0.75rem;
+            letter-spacing: 0.5px;
+          }
+        }
+      }
+    }
+
+    .h2h-section {
+      h2 {
+        font-size: 1.5rem;
+      }
+
+      .table-container {
+        padding: 10px;
+
+        table {
+          font-size: 0.85rem;
+
+          thead th,
+          tbody td {
+            padding: 10px 8px;
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,49 @@
+
+.search-bar {
+    display: flex;
+    align-items: center;
+    width: 50%;
+    margin-left: 80px;
+  }
+  
+  input[type="text"] {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #3a3a5a;
+    border-radius: 24px;
+    font-size: 16px;
+    outline: none;
+    background: #2a2a4a;
+    color: #fff;
+  }
+
+  input[type="text"]::placeholder {
+    color: #888;
+  }
+  
+  button {
+    background-color: #d4af37;
+    color: #1a1a2e;
+    border: none;
+    border-radius: 24px;
+    padding: 10px 20px;
+    margin-left: 10px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 600;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #b8962e;
+  }
+  
+  button:focus {
+    outline: none;
+  }
+  
+  @media screen and (max-width: 1000px){
+    .search-bar {
+        margin-left: 0;
+      }
+  }

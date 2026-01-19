@@ -1,0 +1,76 @@
+{
+    "teams": [
+        {
+            "cover": "/teams/PSG.png", 
+            "title": "Paris Saint-Germain"
+        }, 
+        {
+            "cover": "/teams/Marseille.svg", 
+            "title": "Marseille"
+        },
+        {
+            "cover": "/teams/Monaco.png", 
+            "title": "Monaco"
+        },
+        {
+            "cover": "/teams/Nice.svg", 
+            "title": "Nice"
+        },
+        {
+            "cover": "/teams/Lille.png", 
+            "title": "Lille"
+        },
+        {
+            "cover": "/teams/Lyon.png", 
+            "title": "Lyon"
+        },
+        {
+            "cover": "/teams/Strasbourg.svg", 
+            "title": "Strasbourg"
+        }, 
+        {
+            "cover": "/teams/Lens.png", 
+            "title": "Lens"
+        },
+        {
+            "cover": "/teams/Brest.png", 
+            "title": "Brest"
+        },
+        {
+            "cover": "/teams/Toulouse.svg", 
+            "title": "Toulouse"
+        },
+        {
+            "cover": "/teams/Auxerre.svg", 
+            "title": "Auxerre"
+        },
+        {
+            "cover": "/teams/Rennes.svg", 
+            "title": "Rennes"
+        },
+        {
+            "cover": "/teams/Nantes.png", 
+            "title": "Nantes"
+        },
+        {
+            "cover": "/teams/Angers.png", 
+            "title": "Angers"
+        },
+        {
+            "cover": "/teams/LeHavre.svg", 
+            "title": "Le Havre"
+        },
+        {
+            "cover": "/teams/Reims.png", 
+            "title": "Reims"
+        },
+        {
+            "cover": "/teams/SaintEtienne.png", 
+            "title": "Saint-Etienne"
+        },
+        {
+            "cover": "/teams/Montpellier.png", 
+            "title": "Montpellier"
+        }
+    ]
+}
